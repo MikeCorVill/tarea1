@@ -1,0 +1,12 @@
+#tabla img{
+    margin: 0px auto;
+    margin-left: 15px;
+    height: 100px;
+    border-radius: 25px;
+}
+*{
+    font-size: large;
+}
+#tabla ol{
+    margin-right: 25px;
+}
